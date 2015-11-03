@@ -1,0 +1,86 @@
+body {
+  background:url(рис.81.jpg);
+    background-size: 100%;
+  }
+.block1{
+   width: 1000px;
+   background:#FFF;
+   box-shadow: 0 0 10px rgba(0,0,0,0.5);
+   padding: 10px;
+   border: 1px solid #f0f0f0;
+   border-bottom: 2px solid #ccc;
+   border-radius: 5px;
+   margin:40px auto;
+}
+.MS7{
+   text-align: center;
+}
+.text {
+  font-family:Book Antiqua;
+    text-align:  center;
+    }
+    h1{
+      font-family:Book Antiqua;
+      font-size: 15pt;
+    }
+    h2{
+      font-family:Book Antiqua;
+      font-size: 50pt;
+      text-align: center;
+    }
+    .h3{
+      font-family:Book Antiqua;
+      font-size: 15pt;
+      text-decoration-color: black;
+    }
+    .img {
+      text-align: center;
+      }
+    h5 {
+      font-family:Book Antiqua;
+font-size: 250%;
+border-bottom: 2px solid maroon;
+font-weight: medium;
+padding-bottom: 5px;
+}
+span{
+font-size: 12pt;
+}
+.asd{
+  font-family:Book Antiqua;
+}
+.kek{
+text-indent: 3em;
+font-size: 20pt;
+text-align: justify;
+}
+.lol{
+font-family: Book Antiqua;
+text-indent: 1em;
+text-align: justify;
+}
+.lil{
+  font-family: Book Antiqua;
+  font-size: 150%;
+  border-bottom: 2px solid maroon;
+  font-weight: medium;
+  padding-bottom: 5px;
+  text-indent: 3em;
+  text-align: justify;
+}
+.s1 {
+  text-align: center;
+  height: 58px;
+    width:1000px;
+    border-bottom: 1px solid black;
+    list-style: none;
+ }
+ .zez{
+   text-align: center;
+ }
+ .azaz{
+   width: 1024px;
+   position: absolute;
+   left: 50%;
+   margin-left: -512px;
+ }
